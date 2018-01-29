@@ -23,10 +23,10 @@
 define('DB_NAME', 'epiz_21255910_wpprod');
 
 /** MySQL database username */
-define('DB_USER', 'cmeulyzer');
+define('DB_USER', 'epiz_21255910');
 
 /** MySQL database password */
-define('DB_PASSWORD', '$P$Bl33kXNdw9atcsJ8iLUqTon7yWssNW0');
+define('DB_PASSWORD', 'password');
 
 /** MySQL hostname */
 define('DB_HOST', 'sql205.epizy.com');
